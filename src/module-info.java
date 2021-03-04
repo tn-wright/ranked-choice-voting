@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Travis
+ *
+ */
+module voteCounter {
+}
