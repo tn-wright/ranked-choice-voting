@@ -1,9 +1,2 @@
-/**
- * 
- */
-/**
- * @author Travis
- *
- */
 module voteCounter {
 }
